@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"orangevent"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -106,7 +106,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE \/ touch to enter the virtual meeting"
+                 "value":"Pour entrer dans Immersive Tour - appuyer sur espace"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -144,7 +144,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ChillZoneOrganisation"
+                 "value":"orangevent"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -154,7 +154,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE \/ touch to enter the virtual meeting"
+                 "value":"Pour entrer dans Immersive Tour - appuyer sur espace"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,8 +378,8 @@
         }, 
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 119, 119, 119, 119, 119, 109, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 119, 119, 119, 119, 119, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1559, 1559, 0, 0, 0, 0, 1559, 1559, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 1602, 1603, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -410,9 +410,9 @@
         }, 
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 233, 234, 233, 234, 233, 234, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 245, 246, 245, 246, 245, 246, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 257, 258, 257, 258, 257, 258, 0, 0, 0, 0, 0, 183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 79, 80, 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -634,6 +634,45 @@
          "name":"WA_Exterior",
          "spacing":0,
          "tilecount":850,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2683,
+         "image":"..\/..\/..\/Downloads\/cropped-iTunesArtwork@3x (1).png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"cropped-iTunesArtwork@3x (1)",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2939,
+         "image":"..\/..\/..\/Downloads\/cropped-iTunesArtwork@3x (1).png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"logo",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":3195,
+         "image":"..\/..\/..\/Downloads\/cropped-iTunesArtwork@3x (1).png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"test",
+         "spacing":0,
+         "tilecount":256,
          "tileheight":32,
          "tilewidth":32
         }],
